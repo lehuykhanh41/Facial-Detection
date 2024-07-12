@@ -20,6 +20,12 @@ The repo consists of 2 files:
 
 - PhotoDetection.py: Used for static photo facial detection. The default folder for the photos is in Data_Image.It will load your chosen image from there - just remember to change the photo directory inside the file.
 - WebcamDetection.py: Automatically connect to your webcam and do facial recognition in real-time.
+
+## 3. REFERENCES:
+OpenCV repositories and Haar Cascade pre-trained models:
+
+***https://github.com/opencv/opencv/tree/master/data***
+
 ## THANK YOU FOR READING.
 
 
