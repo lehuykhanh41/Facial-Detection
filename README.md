@@ -1,6 +1,6 @@
 
 # FACIAL DETECTION USING OPEN CV AND PYTHON
-[Main Photo]["./Pics/detection1.jpg"]
+![Main Photo](https://github.com/lehuykhanh41/Facial_Detection/blob/master/Pics/detection1.jpg)
 
 ## 1. INSTALL AND RUN:
 
