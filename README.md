@@ -2,7 +2,15 @@
 # FACIAL DETECTION USING OPEN CV AND PYTHON
 ![Main Photo](https://github.com/lehuykhanh41/Facial_Detection/blob/master/Pics/detection1.jpg)
 
-## 1. INSTALL AND RUN:
+## 1. OVERVIEW AND FEATURES:
+
+This small project implements OpenCV's Haar Cascade facial detection model, which helps to identify faces in pictures, as well as in live webcam.
+
+Features:
+- Photo Detection: Detect faces in static photos.
+- Webcam Detection: Detect faces live in cameras.
+
+## 2. INSTALLS:
 
 You will need OpenCV's package and Matplotlib:
 
@@ -15,11 +23,6 @@ Running from terminal:
 python [fileToRun].py
 ```
 
-## 2. CONTENTS:
-The repo consists of 2 files:
-
-- PhotoDetection.py: Used for static photo facial detection. The default folder for the photos is in Data_Image.It will load your chosen image from there - just remember to change the photo directory inside the file.
-- WebcamDetection.py: Automatically connect to your webcam and do facial recognition in real-time.
 
 ## 3. REFERENCES:
 OpenCV repositories and Haar Cascade pre-trained models:
